@@ -1,7 +1,9 @@
 site_name: Alpha.CA.gov handbook
 site_url: https://handbook-cadotgov.readthedocs.io/en/latest/
-
 repo_url: https://github.com/cagov/handbook-cadotgov/
+
+pages:
+    - Welcome: README.md
 
 theme:
     name: readthedocs
@@ -11,4 +13,3 @@ extra_css:
 
 plugins:
     - search
-
