@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5, h6 {
 .wy-nav-content a:visited {
   color: #0071bc;
 }
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
+  font-weight: normal;
+}
 .wy-menu-vertical a:active {
   background-color: #212121;
 }
