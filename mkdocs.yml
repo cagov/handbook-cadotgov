@@ -1,7 +1,7 @@
 site_name: Alpha.CA.gov handbook
-site_url: https://playbook-cadotgov.readthedocs.io/en/latest/
+site_url: https://handbook-cadotgov.readthedocs.io/en/latest/
 
-repo_url: https://github.com/cagov/playbook-cadotgov/
+repo_url: https://github.com/cagov/handbook-cadotgov/
 
 theme:
     name: readthedocs
