@@ -1,8 +1,8 @@
 body, p, li, blockquote {
-  font-family: "../fonts/PublicSans-Regular.ttf", sans-serif;
+  font-family: "/fonts/PublicSans-Regular.ttf", sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: "../fonts/PublicSans-ExtraLight.ttf", sans-serif;
+  font-family: "/fonts/PublicSans-ExtraLight.ttf", sans-serif;
 }
 .wy-nav-side {
   background: #212121;
