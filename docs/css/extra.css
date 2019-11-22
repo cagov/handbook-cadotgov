@@ -67,6 +67,7 @@ body, p, li, blockquote {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Public Sans", sans-serif;
+  font-family: "Public Sans Thin", sans-serif;
 }
 .wy-nav-side {
   background: #212121;
