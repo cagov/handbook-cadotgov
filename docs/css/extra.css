@@ -1,0 +1,41 @@
+h1, h2, h3, h4, h5, h6, p, li, blockquote {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+.wy-nav-side {
+  background: #212121;
+}
+.wy-nav-content {
+  color: #212121;
+}
+.wy-nav-content a,
+.wy-nav-content a:visited {
+  color: #0071bc;
+}
+.wy-menu-vertical a:active {
+  background-color: #212121;
+}
+.wy-side-nav-search {
+  background-color: #212121;
+}
+.wy-side-nav-search>div.version {
+  color: #f1f1f1;
+}
+.section p {
+    line-height: 28px;
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 28px;
+}
+.section li {
+    font-size: 20px;
+    line-height: 28px;
+}
+h1 {
+  font-size: 200%;
+}
+.wy-menu-vertical a {
+  font-size: 110%;
+}
