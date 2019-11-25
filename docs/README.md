@@ -1,5 +1,5 @@
 # Welcome
-TEST
+
 Welcome to the Alpha.CA.gov handbook!
 
 
@@ -11,11 +11,11 @@ Welcome to the Alpha wiki!
 
 
 ## Administrators
-1. [Slack](https://github.com/cagov/Alpha/wiki/SLACK)
-2. [GSuite](https://github.com/cagov/Alpha/wiki/GSuite)
-3. [GitHub](https://github.com/cagov/Alpha/wiki/GitHub)
+1. [Slack](https://github.com/cagov/handbook-cadotgov/wiki/SLACK)
+2. [GSuite](https://github.com/cagov/handbook-cadotgov/wiki/GSuite)
+3. [GitHub](https://github.com/cagov/handbook-cadotgov/wiki/GitHub)
 
 ## Standard-Users
-1. [Slack](https://github.com/cagov/Alpha/wiki/SLACK-USERS)
-2. [GSuite](https://github.com/cagov/Alpha/wiki/GSuite-USERS)
-3. [GitHub](https://github.com/cagov/Alpha/wiki/GitHub-USERS)
+1. [Slack](https://github.com/cagov/handbook-cadotgov/wiki/SLACK-USERS)
+2. [GSuite](https://github.com/cagov/handbook-cadotgov/wiki/GSuite-USERS)
+3. [GitHub](https://github.com/cagov/handbook-cadotgov/wiki/GitHub-USERS)
