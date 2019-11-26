@@ -5,6 +5,7 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 pages:
     - Welcome: README.md
     - Assets: assets.md
+    - test123: test123.md
 
 theme:
     name: readthedocs
