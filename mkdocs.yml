@@ -4,7 +4,6 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
     - Welcome: README.md
-    - Ceremonies: Ceremonies.md
     - Daily-Standup: DailyStandup.md
     - Demos: Demos.md
     - Retrospectives: Retros.md
