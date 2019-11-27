@@ -10,6 +10,12 @@ pages:
     - Retrospectives: Retros.md
     - Sprint-Planning: Planning.md
     - Meeting-hygiene: Meetinghygiene.md
+    - Slack-Users: SLACK-USERS.md
+    - GSuite-USERS: GSuite-USERS.md
+    - GitHub-USERS: GitHub-USERS.md
+    - SLACK-Admin: SLACK-Admin.md
+    - GSuite-Admin: GSuite-Admin.md
+    - GitHub-Admin: GitHub-Admin.md
 
 theme:
     name: readthedocs
