@@ -1,14 +1,9 @@
 # Welcome
 
 Welcome to the Alpha.CA.gov handbook!
-
-
+TEST
 Welcome to the Alpha wiki!
 
-# Table of Contents
-1. [How We Work](#How-We-Work)
-1. [Administrators](#Administrators)
-2. [Standard Users](#Standard-Users)
 
 ## How we work
 1. [Ceremonies](Ceremonies.md)
