@@ -19,15 +19,24 @@ GovOps
 **Owner/Administrators**
 
 Angie Quirarte
+
 Alpha Project Manager, GovOps
+
 angelica.quirarte@alpha.ca.gov
+
 916-526-5510
+
 Tool specific role: Workspace Owner, Primary Owner
 
+
 Chad Bratton
+
 Technical Architect
+
 chad.bratton@alpha.ca.gov
+
 916-526-5512
+
 Tool specific role: Owner, Administrator
 
 **Policies**
