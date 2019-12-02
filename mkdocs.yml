@@ -15,6 +15,7 @@ pages:
     - SLACK-Admin: SLACK-Admin.md
     - GSuite-Admin: GSuite-Admin.md
     - GitHub-Admin: GitHub-Admin.md
+    - Assets: assets.md
 
 theme:
     name: readthedocs
