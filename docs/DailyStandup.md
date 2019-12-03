@@ -1,7 +1,7 @@
-**Purpose:**
+## Purpose:
 * To recieve status updates from all team members, stay in alignment on priorities, and surface and remove blockers.
 
-**Guidelines:**
+## Guidelines:
 1. 15 Minute Timebox - 10:00 AM Daily
 1. Standup Questions: 
       * What I did yesterday (or since last meeting)
