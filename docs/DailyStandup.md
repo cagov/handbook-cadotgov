@@ -1,6 +1,7 @@
-Purpose:
-Status updates from all team members, stay in alignment on priorities, remove blockers
+**Purpose:**
+* To recieve status updates from all team members, stay in alignment on priorities, and surface and remove blockers.
 
+**Guidelines:**
 1. 15 Minute Timebox - 10:00 AM Daily
 1. Standup Questions: 
       * What I did yesterday (or since last meeting)
@@ -11,6 +12,3 @@ Status updates from all team members, stay in alignment on priorities, remove bl
 1. Call out sidebars, not everyone needs to know everything
 1. Kimberly - DRI
 1. Use Zoom for each meeting to include all staff
-
-
-
