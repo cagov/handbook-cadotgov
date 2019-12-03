@@ -4,18 +4,6 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
     - Welcome: README.md
-    - Daily-Standup: DailyStandup.md
-    - Demos: Demos.md
-    - Retrospectives: Retros.md
-    - Sprint-Planning: Planning.md
-    - Meeting-hygiene: Meetinghygiene.md
-    - Slack-Users: SLACK-USERS.md
-    - GSuite-USERS: GSuite-USERS.md
-    - GitHub-USERS: GitHub-USERS.md
-    - SLACK-Admin: SLACK-Admin.md
-    - GSuite-Admin: GSuite-Admin.md
-    - GitHub-Admin: GitHub-Admin.md
-    - Assets: assets.md
 
 theme:
     name: readthedocs
