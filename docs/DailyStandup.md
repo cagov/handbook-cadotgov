@@ -3,9 +3,9 @@ Status updates from all team members, stay in alignment on priorities, remove bl
 
 1. 15 Minute Timebox - 10:00 AM Daily
 1. Standup Questions: 
-      a. What I did yesterday (or since last meeting)
-      b. What I'm doing today
-      c. Any Blockers
+      * What I did yesterday (or since last meeting)
+      * What I'm doing today
+      * Any Blockers
 1. No solutioning
 1. 60 seconds per person, then pass to any team member
 1. Call out sidebars, not everyone needs to know everything
