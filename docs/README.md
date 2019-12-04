@@ -13,7 +13,6 @@
   1. [Slack](SLACK-USERS.md)
   2. [GSuite](GSuite-USERS.md)
   3. [GitHub](GitHub-USERS.md)
-  4. [G Suite Shared Folder](https://drive.google.com/drive/u/1/folders/0AICk-Kik0j5BUk9PVA)
   
 ## Employee Resources and Guidelines
 
