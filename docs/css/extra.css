@@ -69,10 +69,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Public Sans Medium", sans-serif;
 }
 .wy-nav-side {
-  background: #212121;
+  background: #000000;
 }
 .wy-nav-content {
-  color: #212121;
+  color: #000000;
 }
 .wy-nav-content a,
 .wy-nav-content a:visited {
@@ -82,10 +82,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 .wy-menu-vertical a:active {
-  background-color: #212121;
+  background-color: #000000;
 }
 .wy-side-nav-search {
-  background-color: #212121;
+  background-color: #000000;
 }
 .wy-side-nav-search>div.version {
   color: #f1f1f1;
