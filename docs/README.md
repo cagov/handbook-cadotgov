@@ -9,27 +9,22 @@
   5. [Sprint Planning](Planning.md)
   6. [Meeting hygiene](Meetinghygiene.md)
 
-## Standard-Users
+## Tools
   1. [Slack](SLACK-USERS.md)
   2. [GSuite](GSuite-USERS.md)
   3. [GitHub](GitHub-USERS.md)
   
-## Administrators
-  1. [Slack](SLACK-Admin.md)
-  2. [GSuite](GSuite-Admin.md)
-  3. [GitHub](GitHub-Admin.md)
-  
 ## Employee Resources and Guidelines
 
 ## Dress code
-Business casual with a side of start up
-No exposed toes
+* Business casual with a side of start up
+* No exposed toes
 
 ## Office hours
-Monday-Friday
-10am-12pm - All team members are available for meetings
-1pm-4pm - All team members are available for meetings
-Hours may vary depending on what’s happening on any given day 
+* Monday-Friday
+* 10am-12pm - All team members are available for meetings
+* 1pm-4pm - All team members are available for meetings
+* Hours may vary depending on what’s happening on any given day 
 
 ## Visitor policy
 Visitors are welcome to Alpha HQ but by invitation only. Please coordinate visits with Kimberly. 
@@ -71,3 +66,8 @@ Alpha Team members are encouraged to use social media to talk about and share co
 
 ## Talking to media
 If media contact you, please check in with JP or Angie. Please don’t speak about the Alpha either on the record or on background without first discussing with JP or Angie.
+
+## Administrators
+  1. [Slack](SLACK-Admin.md)
+  2. [GSuite](GSuite-Admin.md)
+  3. [GitHub](GitHub-Admin.md)
