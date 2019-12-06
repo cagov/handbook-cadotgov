@@ -1,7 +1,5 @@
 # Welcome to the Alpha.CA.gov handbook!
 
-## How we work
-
 ## Ceremonies
   1. [Daily Stand Up](DailyStandup.md)
   3. [Demos](Demos.md)
