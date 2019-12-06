@@ -1,5 +1,7 @@
 # Welcome to the Alpha.CA.gov handbook!
 
+## [Contributing to this Wiki](wikicontribution.md)
+
 ## Ceremonies
   1. [Daily Stand Up](DailyStandup.md)
   3. [Demos](Demos.md)
