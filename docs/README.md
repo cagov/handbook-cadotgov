@@ -24,7 +24,7 @@
   1. [Working remotely](workingremotely.md)
   1. [Office security and access](officeaccess.md)
   1. [Last person in the office](dresscode.md)
-  1. [Dress code](dresscode.md)
+  1. [Office hours](dresscode.md)
   1. [Dress code](dresscode.md)
 
 
