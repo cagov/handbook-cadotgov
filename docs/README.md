@@ -26,11 +26,6 @@
   1. [Office security and access](officeaccess.md)
   1. [Last person in the office](lastpersontoleave.md)
 
-
-## Travel reimbursement
-If you are a state employee, travel reimbursements will be made per STATE POLICY LINK
-If you’re a contractor, check in with Kimberly about reimbursements (before incurring the cost). 
-
 ## Professional development
 Check in with Kimberly about trainings, workshops or other opportunities for professional development.
 
