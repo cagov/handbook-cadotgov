@@ -10,3 +10,8 @@
 ## Communication
 * Always keep Slack status updated (i.e. teleworking, in the office, etc...)
 * Always keep Alpha Shared Calendar up to date with time off
+* We use slack for non-urgent communication 
+* Text first for time sensitive matters, then call
+
+## Response Times
+* 
