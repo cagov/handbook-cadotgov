@@ -25,8 +25,6 @@
   1. [Office security and access](officeaccess.md)
   1. [Last person in the office](dresscode.md)
   1. [Office hours](officehours.md)
-  1. [Dress code](dresscode.md)
-
 
 
 Office hours
