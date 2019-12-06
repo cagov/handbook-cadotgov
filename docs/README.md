@@ -16,6 +16,7 @@
   
 ## Employee Resources and Guidelines
   1. [Dress code](dresscode.md)
+  1. [Office hours](officehours.md)
   1. [Visitor policy](visitorpolicy.md)
   1. [Travel reimbursement](Travelreimbursement.md)
   1. [Professional Development](Professionaldevelopment.md)
@@ -23,8 +24,8 @@
   1. [Taking time off](timeoff.md)
   1. [Working remotely](workingremotely.md)
   1. [Office security and access](officeaccess.md)
-  1. [Last person in the office](dresscode.md)
-  1. [Office hours](officehours.md)
+  1. [Last person in the office](lastpersontoleave.md)
+
 
 
 Office hours
