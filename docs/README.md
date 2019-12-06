@@ -15,10 +15,7 @@
   3. [GitHub](GitHub-USERS.md)
   
 ## Employee Resources and Guidelines
-
-## Dress code
-* Business casual with a side of start up
-* No exposed toes
+  1. [Dress code](dresscode.md)
 
 ## Office hours
 * Monday-Friday
@@ -71,6 +68,3 @@ If media contact you, please check in with JP or Angie. Please don’t speak abo
   1. [Slack](SLACK-Admin.md)
   2. [GSuite](GSuite-Admin.md)
   3. [GitHub](GitHub-Admin.md)
-  
-  
-  TEST
