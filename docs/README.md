@@ -27,16 +27,6 @@
   1. [Last person in the office](lastpersontoleave.md)
 
 
-
-Office hours
-* Monday-Friday
-* 10am-12pm - All team members are available for meetings
-* 1pm-4pm - All team members are available for meetings
-* Hours may vary depending on what’s happening on any given day 
-
-## Visitor policy
-Visitors are welcome to Alpha HQ but by invitation only. Please coordinate visits with Kimberly. 
-
 ## Travel reimbursement
 If you are a state employee, travel reimbursements will be made per STATE POLICY LINK
 If you’re a contractor, check in with Kimberly about reimbursements (before incurring the cost). 
