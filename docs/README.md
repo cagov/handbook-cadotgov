@@ -25,28 +25,8 @@
   1. [Working remotely](workingremotely.md)
   1. [Office security and access](officeaccess.md)
   1. [Last person in the office](lastpersontoleave.md)
-
-## Taking time off
-Check in with Kimberly about taking time off.
-
-## Working remotely
-Alpha Team members are welcome to work remotely. Please coordinate your remote work days with Kimberly. And be sure to email your colleagues the day before to let them know you’ll be working remotely and provide the best means for communicating with you. 
-
-## Office security and access
-If you need to reach building security call XXXXX
-If you’re locked out, call XXXXX
-
-## Last person in the office
-If you’re the last person in the office, please follow these steps for closing the office for the night.
-Pull down all the blinds
-Shut off all the lights
-Make sure the door is locked
-
-## Using social media
-Alpha Team members are encouraged to use social media to talk about and share content about the Alpha on their personal social media accounts. Alpha Team members are expected to adhere to the GovOps Code of Conduct in all communications.
-
-## Talking to media
-If media contact you, please check in with JP or Angie. Please don’t speak about the Alpha either on the record or on background without first discussing with JP or Angie.
+  1. [Using Social Media](socialmedia.md)
+  1. [Talking to Media](talkmedia.md)
 
 ## Administrators
   1. [Slack](SLACK-Admin.md)
