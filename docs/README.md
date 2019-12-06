@@ -26,18 +26,6 @@
   1. [Office security and access](officeaccess.md)
   1. [Last person in the office](lastpersontoleave.md)
 
-## Professional development
-Check in with Kimberly about trainings, workshops or other opportunities for professional development.
-
-## Team org chart and roles
-Angie Quirarte
-Kimberly Glenn
-Luke Fretwell
-Chad Bratton
-Art Khomishen
-Carter Medlin
-Oriel Gomez
-
 ## Taking time off
 Check in with Kimberly about taking time off.
 
