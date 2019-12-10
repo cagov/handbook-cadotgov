@@ -7,7 +7,7 @@ Welcome to the Alpha.CA.gov handbook!
 * [Dress code](dresscode.md)
 * [Office hours](officehours.md)
 * [Visitor policy](visitorpolicy.md)
-* Travel reimbursement](Travelreimbursement.md)
+* [Travel reimbursement](Travelreimbursement.md)
 * [Professional Development](Professionaldevelopment.md)
 * [Team org chart and roles](org.md)
 * [Taking time off](timeoff.md)
