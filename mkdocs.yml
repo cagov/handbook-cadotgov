@@ -4,6 +4,7 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
     - Welcome: README.md
+    - Planning: Planning.md
     - Principles: principles.md
     - Assets: assets.md
 
