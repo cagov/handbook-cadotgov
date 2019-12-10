@@ -1,3 +1,5 @@
+# Planning
+
 ## Purpose:
 The primary focus will be to plan the upcoming sprint. Capacity will be documented for each team member contributing to the sprint.
 
@@ -8,6 +10,3 @@ The primary focus will be to plan the upcoming sprint. Capacity will be document
 1. Use the fibonacci scale. Estimate in 1,2,3,5,8,13 increments
 1. If a story is an 8 or above, break it down to smaller stories with less complexity.
 1. Once the sprint backlog satisfies the velocity, the planning session is complete.
-
-
-
