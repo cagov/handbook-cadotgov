@@ -15,11 +15,11 @@ The Alpha.CA.gov design principles include:
 * Design with data, research, intuition, and experimentation
 * Do the hard work to make it simple and elegant
 * Iterate. Then iterate again.
-* Make it accessible and inclusive accessibility, inclusivity
+* Make it accessible and inclusive
 * Understand context
 * Build digital services, not websites
 * Be consistent but not uniform
-* Make things open: It makes things better
+* Make things open: it makes things better
 * Prioritize security, respect privacy
 * Optimize performance
 
