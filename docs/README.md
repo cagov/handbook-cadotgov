@@ -2,37 +2,8 @@
 
 Welcome to the Alpha.CA.gov handbook!
 
-**Employee Resources and Guidelines**
+The Alpha.CA.gov team is working to make it easier for Californians to access, understand and use digital information and services. This handbook is a product of that work.
 
-* [Dress code](dresscode.md)
-* [Office hours](officehours.md)
-* [Visitor policy](visitorpolicy.md)
-* [Travel reimbursement](Travelreimbursement.md)
-* [Professional Development](Professionaldevelopment.md)
-* [Team org chart and roles](org.md)
-* [Taking time off](timeoff.md)
-* [Working remotely](workingremotely.md)
-* [Office security and access](officeaccess.md)
-* [Last person in the office](lastpersontoleave.md)
-* [Using Social Media](socialmedia.md)
-* [Talking to Media](talkmedia.md)
+This handbook is an iterative, practical and accessible tool. Our team uses it to record and reference our ways of work, principles and guidelines.
 
-**Ceremonies**
-
-* [Daily Stand Up](DailyStandup.md)
-* [Demos](Demos.md)
-* [Retrospectives](Retros.md)
-* [Sprint Planning](Planning.md)
-* [Meeting hygiene](Meetinghygiene.md)
-
-**Tools**
-
-* [Slack](SLACK-USERS.md)
-* [GSuite](GSuite-USERS.md)
-* [GitHub](GitHub-USERS.md)
-
-**Administrators**
-
-* [Slack](SLACK-Admin.md)
-* [GSuite](GSuite-Admin.md)
-* [GitHub](GitHub-Admin.md)
+For anyone else visiting this page, we offer this handbook as a resource.
