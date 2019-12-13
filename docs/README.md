@@ -1,10 +1,6 @@
 # Welcome
 
 Welcome to the Alpha.CA.gov handbook!
- 
-**alpha.ca.gov**
-
-* [Website Architecture](WebArchitecture.md)
 
 **Employee Resources and Guidelines**
 
