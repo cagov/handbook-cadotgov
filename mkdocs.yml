@@ -4,7 +4,7 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
     - Welcome: README.md
-    - Employee resources and guidelines: Employeeresourcesandguidelines.md
+    - Employee resources: Employeeresourcesandguidelines.md
     - Planning: Planning.md
     - Principles: principles.md
     - Assets: assets.md
