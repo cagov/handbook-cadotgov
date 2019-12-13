@@ -1,5 +1,3 @@
-Alpha employee handbook
-
 **Slack** 
 
 Slack is a required chat tool for the Alpha team. We’ll use it to communicate with each other in a central place. 
@@ -16,12 +14,7 @@ Slack is a required chat tool for the Alpha team. We’ll use it to communicate 
 
 **Policy Compliance**
 
-Users must review, sign and comply with the following GovOps Policies:
-* Acceptable Use
-* Security
-* Privacy
-* Code of Conduct
-* Put signed policies here [LINK TO FOLDER]
+Users must comply with GovOps Policies
 
 **Setup**
 
