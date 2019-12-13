@@ -12,6 +12,3 @@
 * Always keep Alpha Shared Calendar up to date with time off
 * We use slack for non-urgent communication 
 * Text first for time sensitive matters, then call
-
-## Response Times
-* 
