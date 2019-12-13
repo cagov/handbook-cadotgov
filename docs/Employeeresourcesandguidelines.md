@@ -8,7 +8,6 @@
 * [Team org chart and roles](org.md)
 * [Taking time off](timeoff.md)
 * [Working remotely](workingremotely.md)
-* [Office security and access](officeaccess.md)
 * [Last person in the office](lastpersontoleave.md)
 * [Using Social Media](socialmedia.md)
 * [Talking to Media](talkmedia.md)
