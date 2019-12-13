@@ -23,11 +23,7 @@
 **Tools**
 
 * [Slack](SLACK-USERS.md)
-* [GSuite](GSuite-USERS.md)
-* [GitHub](GitHub-USERS.md)
 
 **Administrators**
 
 * [Slack](SLACK-Admin.md)
-* [GSuite](GSuite-Admin.md)
-* [GitHub](GitHub-Admin.md)
