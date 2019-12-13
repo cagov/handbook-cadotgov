@@ -9,15 +9,15 @@
 * [Taking time off](timeoff.md)
 * [Working remotely](workingremotely.md)
 * [Last person in the office](lastpersontoleave.md)
-* [Using Social Media](socialmedia.md)
-* [Talking to Media](talkmedia.md)
+* [Using social media](socialmedia.md)
+* [Talking to media](talkmedia.md)
 
 **Ceremonies**
 
-* [Daily Stand Up](DailyStandup.md)
+* [Daily stand up](DailyStandup.md)
 * [Demos](Demos.md)
 * [Retrospectives](Retros.md)
-* [Sprint Planning](Planning.md)
+* [Sprint planning](Planning.md)
 * [Meeting hygiene](Meetinghygiene.md)
 
 **Tools**
