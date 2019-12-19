@@ -1,5 +1,5 @@
 site_name: Alpha.CA.gov handbook
-site_url: https://handbook-cadotgov.readthedocs.io/en/latest/
+site_url: https://handbook.alpha.ca.gov/en/latest/
 repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
@@ -9,7 +9,6 @@ pages:
     - Principles: principles.md
     - Design: design.md
     - Assets: assets.md
-    
 
 theme:
     name: readthedocs
