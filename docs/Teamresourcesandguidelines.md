@@ -1,6 +1,6 @@
 # Resources
 
-**Employee Resources and Guidelines**
+**Team Resources and Guidelines**
 
 * [Dress code](dresscode.md)
 * [Office hours](officehours.md)
