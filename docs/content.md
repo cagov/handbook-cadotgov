@@ -165,8 +165,7 @@ We use AP Style with a few differences.
 
 
 *   We use the serial comma (also called the Oxford comma) to avoid confusion. 
-    *   Example: _We brought apples, bananas, and oranges.
-
+    *   Example: _We brought apples, bananas, and oranges._
 
 ## Use our content types with care
 
