@@ -216,7 +216,7 @@ We use AP Style with a few differences.
 
 
 *   Start with an active verb such as “Apply,” “Submit,” “Search.” 
-*   Avoid “See more” or “Read more.” They assume everyone can see.
+*   Avoid “See more” or “View more.” They assume everyone can see.
 *   Keep it short but descriptive and distinctive. 
     *   An entire page of “Learn more” buttons wouldn’t help you make a choice, for example. 
     *   The user should have a good idea of where the button will take them. 
