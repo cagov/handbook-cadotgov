@@ -1,1 +1,0 @@
-* Alpha Team members are welcome to work remotely. Please coordinate your remote work days with Kimberly. And be sure to email your colleagues the day before to let them know you’ll be working remotely and provide the best means for communicating with you. 
