@@ -1,18 +1,14 @@
 # Content guide
 
-## Make your content user-centered  {#make-your-content-user-centered}
+## Make your content user-centered
 
-
-### Use plain language {#use-plain-language}
+### Use plain language
 
 Plain language is humane. It’s accessible to everyone, including readers with cognitive disabilities and low literacy.
 
-
-#### Simplify and clarify content {#simplify-and-clarify-content}
+#### Simplify and clarify content
 
 When you have a choice, [choose the simpler word](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/). 
-
-
 
 *   For example, choose _use_ instead of _utilize_. 
 *   Avoid or explain jargon. 
@@ -25,11 +21,10 @@ Simplify and clarify your content, but not at the expense of clarity. Test your 
 Add helper or explainer text where more context is needed. 
 
 
-
 *   For example, if a user types a city outside of California, helper text would kindly guide them to the appropriate next step: “Sorry, we don’t recognize that city. Please enter a city or zip code in California.” 
 
 
-#### Write clear sentences {#write-clear-sentences}
+#### Write clear sentences
 
 Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs. 
 
@@ -39,19 +34,15 @@ Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-activ
 *   Write in the present tense.
 *   Turn gerunds into verbs where it makes sense (for example, instead of “helping,” write “help”).
 
-Check your readability with an editor such as [Hemingway App](http://hemingwayapp.com/). The Web Content Accessibility Guidelines (WCAG) recommend a readability level of [grade nine or below](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html). But a readability editor won’t tell you whether users understand your content. So 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "test your content with users"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[test your content with users](#heading=h.2v8i7sk5oztq). 
+Check your readability with an editor such as [Hemingway App](http://hemingwayapp.com/). The Web Content Accessibility Guidelines (WCAG) recommend a readability level of [grade nine or below](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html). But a readability editor won’t tell you whether users understand your content. So test your content with users. 
 
 
-#### Keep learning {#keep-learning}
+#### Keep learning
 
 Refer to [plainlanguage.gov](https://www.plainlanguage.gov/) for more guidelines.
 
 
-### Be concise {#be-concise}
+### Be concise
 
 Aim for one thought per sentence. But try to vary the lengths of your sentences to sound more human and to give your writing a smooth flow. 
 
@@ -68,7 +59,7 @@ Use bullet points, alerts, or information boxes where appropriate.
 *   Choose the format that best matches your content.
 
 
-### Keep it conversational {#keep-it-conversational}
+### Keep it conversational
 
 Write how you speak. Imagine each period as a breath and each comma as a pause. Then read your writing out loud. 
 
@@ -79,7 +70,7 @@ Where it makes sense, start sentences with “And” or “But” to show the re
 Refer to the users as “you,” and the government or agency as “we.” Avoid “me” or “my” because it’s unclear if “me” refers to the readers or the writer.
 
 
-### Get to know your audience {#get-to-know-your-audience}
+### Get to know your audience
 
 Use Google Analytics and Search Console to learn the keywords people use to find your page. 
 
@@ -89,7 +80,7 @@ Use Google Analytics and Search Console to learn the keywords people use to find
 *   It can also show you users’ priorities and what they’re trying to find on your page.
 
 
-#### Put users first  {#put-users-first}
+#### Put users first
 
 Share what your users need, not what you want them to think about you or your agency. Put their needs ahead of your agenda.
 
@@ -101,7 +92,7 @@ Give users the information they want and reflect their priorities.
 *   Highlight information they’re looking for.
 
 
-### Test your content with users {#test-your-content-with-users}
+### Test your content with users
 
 
 
@@ -114,10 +105,10 @@ Give users the information they want and reflect their priorities.
     *   Highlight any words or phrases that are difficult to understand.
 
 
-## Follow this style guide for consistency {#follow-this-style-guide-for-consistency}
+## Follow this style guide for consistency
 
 
-### Voice {#voice}
+### Voice
 
 
 <table>
@@ -167,7 +158,7 @@ Give users the information they want and reflect their priorities.
 
 
 
-### Copyediting {#copyediting}
+### Copyediting
 
 We use AP Style with a few differences. 
 
@@ -177,10 +168,10 @@ We use AP Style with a few differences.
     *   Example: _We brought apples, bananas, and oranges. _
 
 
-## Use our content types with care {#use-our-content-types-with-care}
+## Use our content types with care
 
 
-### Headings {#headings}
+### Headings
 
 
 
@@ -198,7 +189,7 @@ We use AP Style with a few differences.
     *   Make sure your headings make sense in order and accurately summarize the page. 
 
 
-### Titles {#titles}
+### Titles
 
 
 
@@ -207,7 +198,7 @@ We use AP Style with a few differences.
     *   For example: <title>Content guide - Alpha.CA.gov</title>
 
 
-### URLs {#urls}
+### URLs
 
 
 
@@ -221,7 +212,7 @@ We use AP Style with a few differences.
 *   Wherever Alpha.CA.gov is spelled out, it should be linked.
 
 
-### Buttons and calls to action (CTAs) {#buttons-and-calls-to-action-ctas}
+### Buttons and calls to action (CTAs)
 
 
 
@@ -232,7 +223,7 @@ We use AP Style with a few differences.
     *   The user should have a good idea of where the button will take them. 
 
 
-### Checkboxes {#checkboxes}
+### Checkboxes
 
 
 
@@ -241,7 +232,7 @@ We use AP Style with a few differences.
     *   Anything with an “or” relationship should have bullet points or radio buttons. (For example: “You must be one of the following: a, b, c...”)
 
 
-### Bullet points {#bullet-points}
+### Bullet points
 
 
 
@@ -254,7 +245,7 @@ We use AP Style with a few differences.
         *   _Oranges_
 
 
-### Form fields {#form-fields}
+### Form fields
 
 Form fields allow users to enter in their information and get an answer specific to them and their needs. 
 
@@ -268,7 +259,7 @@ Form fields allow users to enter in their information and get an answer specific
 *   Display valid options as a user starts typing to confirm what they can choose. 
 
 
-### Step by step {#step-by-step}
+### Step by step
 
 The step by step content type walks users through multiple tasks that add up to one major task, such as “Hire a licensed contractor.” 
 
@@ -281,7 +272,7 @@ The step by step content type walks users through multiple tasks that add up to 
 *   Make each link to an agency a call-to-action that starts with a verb. Link the whole phrase. 
 
 
-### Alerts {#alerts}
+### Alerts
 
 Alerts highlight important or time-sensitive information. 
 
@@ -292,7 +283,7 @@ Alerts highlight important or time-sensitive information.
 *   Anything less urgent can go into an info box.
 
 
-### Info box {#info-box}
+### Info box
 
 An info box breaks out important information so that readers can skim it quickly. 
 
@@ -303,11 +294,9 @@ An info box breaks out important information so that readers can skim it quickly
 *   Use numerals (1, 2, 3) instead of spelling out numbers inside an info box to make it easier to scan.  	
 
 
-### Lead class {#lead-class}
+### Lead class
 
 
 
 *   Use lead text sparingly to highlight information that’s important to users.
 *   Try not to use more than one paragraph of lead class text per page. 
-
-<!-- Docs to Markdown version 1.0β17 -->
