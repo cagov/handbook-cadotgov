@@ -4,7 +4,7 @@ repo_url: https://github.com/cagov/handbook-cadotgov/
 
 pages:
     - Welcome: README.md
-    - Principles / framing: principles.md
+    - Principles - framing: principles.md
     - Content guide: content.md
     - Design: design.md
     - Contributions: contributions.md
