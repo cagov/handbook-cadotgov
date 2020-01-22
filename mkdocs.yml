@@ -10,10 +10,11 @@ pages:
     - Contributions: contributions.md
 
 theme:
-    - name: readthedocs
+    name: readthedocs
 
 extra_css:
     - css/extra.css
 
 plugins:
     - search
+    
