@@ -1,5 +1,3 @@
-# Design
-
 ## Guidelines
 
 * [California Web Design System (Alpha)](https://cagov.github.io/cwds/)
