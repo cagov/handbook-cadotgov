@@ -37,7 +37,7 @@
 
 ### Daily AM Stand Up
  * 15 Minute Timebox - 10:00 AM 
- * Each team member to cover:
+ * Each team member to cover
   ** What I did yesterday (or since last meeting)
   ** What I'm doing today
   ** Any Blockers
