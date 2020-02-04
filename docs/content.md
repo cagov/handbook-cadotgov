@@ -4,41 +4,27 @@
 
 Plain language is humane. It’s accessible to everyone, including readers with cognitive disabilities and low literacy.
 
-#### Simplify and clarify content
-
-When you have a choice, [choose the simpler word](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/). 
-
-*   For example, choose _use_ instead of _utilize_. 
+### Simplify and clarify content
+When you have a choice, [choose the simpler word](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/) 
+*   For example, choose _use_ instead of _utilize_ 
 *   Avoid or explain jargon. 
-*   Spell out acronyms on first reference. Put the acronym in parentheses if you refer to it later. 
-*   Avoid negative phrases and find a positive one instead. They’re easier to understand. 
-    *   For example, instead of “don’t have,” write “lack.” 
+*   Spell out acronyms on first reference. Put the acronym in parentheses if you refer to it later 
+*   Avoid negative phrases and find a positive one instead that are easier to understand
+    *   For example, instead of “don’t have,” write “lack” 
 
 Simplify and clarify your content, but not at the expense of clarity. Test your content with users to check if your content is easy to understand. 
 
 Add helper or explainer text where more context is needed. 
-
-
 *   For example, if a user types a city outside of California, helper text would kindly guide them to the appropriate next step: “Sorry, we don’t recognize that city. Please enter a city or zip code in California.” 
 
-
-#### Write clear sentences
-
+### Write clear sentences
 Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs. 
-
-
 
 *   Make sure you don’t have [hidden verbs](https://plainlanguage.gov/guidelines/words/avoid-hidden-verbs/). 
 *   Write in the present tense.
 *   Turn gerunds into verbs where it makes sense (for example, instead of “helping,” write “help”).
 
 Check your readability with an editor such as [Hemingway App](http://hemingwayapp.com/). The Web Content Accessibility Guidelines (WCAG) recommend a readability level of [grade nine or below](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html). But a readability editor won’t tell you whether users understand your content. So test your content with users. 
-
-
-#### Keep learning
-
-Refer to [plainlanguage.gov](https://www.plainlanguage.gov/) for more guidelines.
-
 
 ### Be concise
 
@@ -49,8 +35,6 @@ Write short paragraphs. But, similar to sentences, add a variety of paragraph le
 Break up your content with headings to make the page easier to scan and summarize. 
 
 Use bullet points, alerts, or information boxes where appropriate. 
-
-
 
 *   Emphasize the information that people most need. Consider using a larger font or bolding the words people are searching for. 
     *   An alert would help users find a deadline, for instance. 
@@ -68,31 +52,26 @@ Where it makes sense, start sentences with “And” or “But” to show the re
 Refer to the users as “you,” and the government or agency as “we.” Avoid “me” or “my” because it’s unclear if “me” refers to the readers or the writer.
 
 
-### Get to know your audience
+## Get to know your audience
 
 Use Google Analytics and Search Console to learn the keywords people use to find your page. 
-
 
 
 *   This shows you the language people are really using online. 
 *   It can also show you users’ priorities and what they’re trying to find on your page.
 
 
-#### Put users first
+### Put users first
 
 Share what your users need, not what you want them to think about you or your agency. Put their needs ahead of your agenda.
 
 Give users the information they want and reflect their priorities.
-
-
 
 *   Put the content they most want first on the page. 
 *   Highlight information they’re looking for.
 
 
 ### Test your content with users
-
-
 
 *   Give users a task to check if they can quickly complete it using your webpage.
     *   For example, “Find the minimum wage in your city.”
@@ -103,11 +82,11 @@ Give users the information they want and reflect their priorities.
     *   Highlight any words or phrases that are difficult to understand.
 
 
-## Follow this style guide for consistency
+## Keep learning
 
+Refer to [plainlanguage.gov](https://www.plainlanguage.gov/) for more guidelines.
 
-### Voice
-
+## Voice
 
 <table>
   <tr>
@@ -154,23 +133,14 @@ Give users the information they want and reflect their priorities.
   </tr>
 </table>
 
-
-
 ### Copyediting
 
 We use AP Style with a few differences. 
 
-
-
 *   We use the serial comma (also called the Oxford comma) to avoid confusion. 
     *   Example: _We brought apples, bananas, and oranges._
 
-## Use our content types with care
-
-
 ### Headings
-
-
 
 *   Use sentence case. 
     *   The first word is [capitalized](https://content-guide.18f.gov/capitalization/), as well as proper nouns. 
