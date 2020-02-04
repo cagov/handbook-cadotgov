@@ -11,7 +11,6 @@
 
 ### Office access and security
   * If you need to reach building security call April Edwards - 916-445-3700
-  * If you’re locked out, call XXXXX
 
 ### Dress code
   * Be yourself, be comfortable
