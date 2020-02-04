@@ -14,24 +14,23 @@
   * No exposed toes
 
 ## Visitor policy
-  * Visitors are welcome to Alpha HQ. Please coordinate visits with Kimberly.
-  * A "meeting in progress" sign will be posted on the front window as needed.
+  * Visitors are welcome to Alpha HQ
+  * Please coordinate visits with Kimberly.
 
 ## Last person in the office
-  * If you’re the last person in the office, please follow these steps for closing the office for the night.
   * Pull down all the blinds
   * Shut off all the lights
   * Make sure the door is locked
 
 ## Intra-Team Communication
-  * Always keep Slack status updated (i.e. teleworking, in the office, etc...)
-  * Always keep Alpha Shared Calendar up to date with time off
-  * We use slack for non-urgent communication
-  * Text or call for time sensitive matters
+  * Always keep Slack status updated 
+  * Always keep Alpha Goolge shared calendar up to date with time off
+  * We use Slack for non-urgent communication
+  * Text or call colleagues for time sensitive matters
 
 ## Ceremonies
 
-## Daily AM Stand Up
+### Daily AM Stand Up
  * 15 Minute Timebox - 10AM 
  * Agenda
    * What I did yesterday (or since last meeting)
@@ -43,15 +42,15 @@
  * Use Zoom or Google hangouts for remote staff
  * DRI: Kimberly
  
-## Show and Tell 
+### Show and Tell 
  * One weekly demo
  * Remote staff to participate via Google
  * Team members are encouraged to present on their work
  * Sponsors are invited
 
-## Retrospectives
+### Retrospectives
 
-## Sprint Planning
+### Sprint Planning
  * We will have at least one weekly sprint planning session
  * Zoom will be used for remote staff to participate
  * Team members are encouraged to volunteer to create stories/issues throughout the week to discuss in the next sprint planning session
