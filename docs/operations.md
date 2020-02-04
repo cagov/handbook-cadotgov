@@ -68,15 +68,16 @@
 
 ## Using social media
  * Alpha Team members are encouraged to use social media to talk about and share content about the Alpha on their personal social media accounts. Alpha Team members are expected to adhere to the GovOps Code of Conduct in all communications.
- * Talking to media
-   * If media contacts you, please check in with JP or Angie. Please don’t speak about the Alpha either on the record or on background without first discussing with JP or Angie.
+ 
+## Talking to media
+ * If media contacts you, please check in with JP or Angie. Please don’t speak about the Alpha either on the record or on background without first discussing with JP or Angie.
 
 ## Travel reimbursement
   * If you are a state employee, travel reimbursements will be made per [state policy](https://www.calhr.ca.gov/employees/pages/travel-reimbursements.aspx)
-  * If you’re a contractor, check in with Kimberly about reimbursements (before incurring the cost)
+  * If you’re a contractor, check in with Kimberly about reimbursement before incurring the cost
  
 ## Professional development 
-  * Check in with Kimberly about trainings, workshops or other opportunities for professional development.
+  * Check in with Kimberly about trainings, workshops or other opportunities for professional development
  
 ## Team org chart
  
