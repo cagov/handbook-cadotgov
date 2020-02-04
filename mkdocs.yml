@@ -8,7 +8,7 @@ pages:
     - Operations: operations.md
     - Guiding principles: principles.md
     - Content guide: content.md
-    - Design: design.md
+    - Product design: design.md
 
 theme:
     name: readthedocs
