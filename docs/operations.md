@@ -33,3 +33,19 @@
   * We use slack for non-urgent communication
   * Text or call for time sensitive matters
 
+## Ceremonies
+
+### Daily AM Stand Up
+To get status updates from all team members, stay aligned around priorities, and surface and remove blockers.
+ * 15 Minute Timebox - 10:00 AM 
+ * Each team member to cover:
+ * What I did yesterday (or since last meeting)
+ * What I'm doing today
+ * Any Blockers
+
+Guidelines:
+ * No solutioning
+ * 60 seconds per person, then pass to any team member
+ * Call out sidebars, not everyone needs to know everything
+ * Kimberly - DRI
+ * Use Zoom or Google hangouts for remote staff
