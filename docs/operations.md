@@ -30,12 +30,13 @@
 
 ## Ceremonies
 
-### Daily AM Stand Up
- * 15 Minute Timebox - 10AM 
+### Daily Stand Up
+ * 10AM, Monday-Friday
+ * 15 Minute Timebox  
  * Agenda
-   * What I did yesterday (or since last meeting)
-   * What I'm doing today
-   * Blockers
+  * What I did yesterday (or since last meeting)
+  * What I'm doing today
+  * Blockers
  * No solutioning
  * 60 seconds per person, then pass to any team member
  * Call out sidebars, not everyone needs to know everything
