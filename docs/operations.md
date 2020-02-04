@@ -22,11 +22,19 @@
   * Shut off all the lights
   * Make sure the door is locked
 
-## Intra-Team Communication
+## Communicating with the team
   * Always keep Slack status updated 
-  * Always keep Alpha Goolge shared calendar up to date with time off
+  * Always keep your Alpha Google shared calendar up to date with time off
   * We use Slack for non-urgent communication
   * Text or call colleagues for time sensitive matters
+
+## Taking time off
+  * Check in with Kimberly about taking time off.
+
+## Working remotely 
+  * Alpha Team members are welcome to work remotely 
+  * Please coordinate your remote work days with Kimberly 
+  * Be sure to update your Slack status so your colleagues know you’re working remotely
 
 ## Ceremonies
 
@@ -67,18 +75,12 @@
   * If you are a state employee, travel reimbursements will be made per [state policy](https://www.calhr.ca.gov/employees/pages/travel-reimbursements.aspx)
   * If you’re a contractor, check in with Kimberly about reimbursements (before incurring the cost)
  
- ## Professional development 
+## Professional development 
   * Check in with Kimberly about trainings, workshops or other opportunities for professional development.
  
- ## Team org chart
+## Team org chart
  
- ## Team roles
-
-## Taking time off
-  * Check in with Kimberly about taking time off.
-
-## Working remotely 
-  * Alpha Team members are welcome to work remotely. Please coordinate your remote work days with Kimberly. Be sure to update   * your Slack status so your colleagues know you’re working remotely. 
+## Team roles 
 
 ## Lost device
 
