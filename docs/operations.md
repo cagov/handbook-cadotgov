@@ -1,5 +1,3 @@
-# Operations
-
 ## Office hours
   * Core Hours
     * Monday-Friday
