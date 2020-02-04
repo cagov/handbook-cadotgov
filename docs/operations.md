@@ -40,7 +40,7 @@
  * Agenda
    * What I did yesterday (or since last meeting)
    * What I'm doing today
-   * Any Blockers
+   * Blockers
  * No solutioning
  * 60 seconds per person, then pass to any team member
  * Call out sidebars, not everyone needs to know everything
