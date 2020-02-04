@@ -36,7 +36,7 @@
 ## Ceremonies
 
 ### Daily AM Stand Up
- * 15 Minute Timebox - 10:00 AM 
+ * 15 Minute Timebox - 10AM 
  * Each team member to cover
   ** What I did yesterday (or since last meeting)
   ** What I'm doing today
