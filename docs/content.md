@@ -1,5 +1,3 @@
-# Content guide
-
 ## Make your content user-centered
 
 ### Use plain language
