@@ -46,3 +46,17 @@
  * Call out sidebars, not everyone needs to know everything
  * Use Zoom or Google hangouts for remote staff
  * DRI: Kimberly
+ 
+### Show and Tell 
+ * One weekly demo
+ * Remote staff to participate via Google
+ * Team members are encouraged to present on their work
+ * Sponsors are invited
+
+### Retrospectives
+
+### Sprint Planning
+ * We will have at least one weekly sprint planning session
+ * Zoom will be used for remote staff to participate
+ * Team members are encouraged to volunteer to create stories/issues throughout the week to discuss in the next sprint planning session
+
