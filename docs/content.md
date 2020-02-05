@@ -5,12 +5,12 @@
 Plain language is humane. It’s accessible to everyone, including readers with cognitive disabilities and low literacy.
 
 ### Simplify and clarify content
-When you have a choice, [choose the simpler word](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/) 
-*   For example, choose _use_ instead of _utilize_ 
+*   When you have a choice, [choose the simpler word](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/). 
+*   For example, choose _use_ instead of _utilize_. 
 *   Avoid or explain jargon. 
-*   Spell out acronyms on first reference. Put the acronym in parentheses if you refer to it later 
-*   Avoid negative phrases and find a positive one instead that are easier to understand
-    *   For example, instead of “don’t have,” write “lack” 
+*   Spell out acronyms on first reference. Put the acronym in parentheses if you refer to it later.
+*   Where you can, avoid negative phrases. Find a positive one instead because they're easier to understand.
+    *   For example, instead of “don’t have,” write “lack.” 
 
 Simplify and clarify your content, but not at the expense of clarity. Test your content with users to check if your content is easy to understand. 
 
@@ -18,8 +18,8 @@ Add helper or explainer text where more context is needed.
 *   For example, if a user types a city outside of California, helper text would kindly guide them to the appropriate next step: “Sorry, we don’t recognize that city. Please enter a city or zip code in California.” 
 
 ### Write clear sentences
-Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs. 
 
+*   Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs. 
 *   Make sure you don’t have [hidden verbs](https://plainlanguage.gov/guidelines/words/avoid-hidden-verbs/). 
 *   Write in the present tense.
 *   Turn gerunds into verbs where it makes sense (for example, instead of “helping,” write “help”).
@@ -27,15 +27,15 @@ Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-activ
 Check your readability with an editor such as [Hemingway App](http://hemingwayapp.com/). The Web Content Accessibility Guidelines (WCAG) recommend a readability level of [grade nine or below](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html). But a readability editor won’t tell you whether users understand your content. So test your content with users. 
 
 ### Be concise
-Aim for one thought per sentence. But try to vary the lengths of your sentences to sound more human and to give your writing a smooth flow. 
+Aim for one thought per sentence. But try to vary the lengths of your sentences to sound more human and give your writing a smooth flow. 
 
-Write short paragraphs. But, similar to sentences, add a variety of paragraph lengths to keep readers interested.
+Write short paragraphs. But again, add a variety of paragraph lengths to keep readers interested.
 
 Break up your content with headings to make the page easier to scan and summarize. 
 
-Use bullet points, alerts, or information boxes where appropriate. 
+*   Use bullet points, alerts, or information boxes where appropriate. 
 *   Emphasize the information that people most need. Consider using a larger font or bolding the words people are searching for. 
-    *   An alert would help users find a deadline, for instance. 
+*   An alert would help users find a deadline, for example. 
 *   Choose the format that best matches your content.
 
 ### Keep it conversational
@@ -48,14 +48,13 @@ Where it makes sense, start sentences with “And” or “But” to show the re
 Refer to the users as “you,” and the government or agency as “we.” Avoid “me” or “my” because it’s unclear if “me” refers to the readers or the writer.
 
 ### Get to know your audience
-Use Google Analytics and Search Console to learn the keywords people use to find your page. 
-*   This shows you the language people are really using online. 
-*   It can also show you users’ priorities and what they’re trying to find on your page.
+
+Use Google Analytics and Search Console to learn the keywords people use to find your page. This shows you the language people are really using online. It can also show you users’ priorities and what they’re trying to find on your page.
 
 ### Put users first
 Share what your users need, not what you want them to think about you or your agency. Put their needs ahead of your agenda.
 
-Give users the information they want and reflect their priorities.
+*   Give users the information they want and reflect their priorities.
 *   Put the content they most want first on the page. 
 *   Highlight information they’re looking for.
 
