@@ -20,12 +20,6 @@
 ## Intra-team communications
 ### Slack
 #### Administrator guidelines
-#### User guidelines
-
-## External communications
-### Twitter
-### Blog
-
 **Team:** Alpha.CA.gov
 **Slack workspace name:** cadotgov
 
@@ -74,6 +68,13 @@ Tool specific role: Owner, Administrator
   * New channels must be named to clearly show their purpose.
   * Channels that end with -partner include partners from other agencies.
   * Channels that end with -public may include members of the public.
+
+
+#### User guidelines
+
+## External communications
+### Twitter
+### Blog
 
 # Slack users
 **Slack**
