@@ -1,3 +1,7 @@
+# Content guide
+
+Welcome to our minimum viable content guide. This guide helps us use a consistent writing style and voice. It also documents some best practices of user-centered writing for us to refer back to, even as we iterate quickly.
+
 ## Make your content user-centered
 
 ### Use plain language
