@@ -2,10 +2,10 @@
   * GSuite (Google docs, email, calendar)
 
 ## Development
-  * Browser Stack - use fir cross browser testing 
+  * Browser Stack - cross browser testing 
   * Postman (link to API documentation page) 
   * GitHub
-  * Azure MS Cloud Services - for deployment
+  * Azure MS Cloud Services - deployment
 
 ## Accessibility testing
   * Lighthouse - performance, accessibility and SEO
