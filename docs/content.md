@@ -171,7 +171,7 @@ We use AP Style with a few differences.
 
 ## Form fields
 Form fields allow users to enter in their information and get an answer specific to them and their needs. 
-   *   Avoid placeholder text. [From Nielsen Norman Group](https://www.nngroup.com/articles/form-design-placeholders/): “Placeholder text within a form field makes it difficult for people to remember what information belongs in a field, and to check for and fix errors. It also poses additional burdens for users with visual and cognitive impairments”
+   * Avoid placeholder text. [From Nielsen Norman Group](https://www.nngroup.com/articles/form-design-placeholders/): “Placeholder text within a form field makes it difficult for people to remember what information belongs in a field, and to check for and fix errors. It also poses additional burdens for users with visual and cognitive impairments”
    * Add helper text that appears outside of the form field if someone gives an invalid entry 
    * For example: “Please enter a nine-digit phone number such as 555-555-5555”
    * Include a button to make it clear what type of results users will get
@@ -180,24 +180,24 @@ Form fields allow users to enter in their information and get an answer specific
 
 ## Step by step
 The step by step content type walks users through multiple tasks that add up to one major task, such as “Hire a licensed contractor.” 
-*   Step by steps are especially helpful if the steps happen across different agencies
-*   Give a high-level summary in each step headline, and put smaller details in the “Show/Hide” text 
-    *   Each step should start with a verb
-*   Avoid duplicating content that already exists on an agency website. But prepare users with the information they need before they click the deep link where you’re sending them
-*   Make each link to an agency a call-to-action that starts with a verb. Link the whole phrase 
+   * Step by steps are especially helpful if the steps happen across different agencies
+   * Give a high-level summary in each step headline, and put smaller details in the “Show/Hide” text 
+   * Each step should start with a verb
+   * Avoid duplicating content that already exists on an agency website. But prepare users with the information they need before they click the deep link where you’re sending them
+   * Make each link to an agency a call-to-action that starts with a verb. Link the whole phrase 
 
 ## Alerts
 Alerts highlight important or time-sensitive information. 
-*   Deadlines or urgent content fits well within an alert 
-*   Use numerals (1, 2, 3) instead of spelling out numbers inside an alert  
-*   Anything less urgent can go into an info box
+   * Deadlines or urgent content fits well within an alert 
+   * Use numerals (1, 2, 3) instead of spelling out numbers inside an alert  
+   * Anything less urgent can go into an info box
 
 ## Info box
 An info box breaks out important information so that readers can skim it quickly
-*   Numbers or important takeaways can go into an info box if they aren’t time-sensitive
-    *   For example, telling state employees they get 1 personal holiday and 1 holiday credit in 2020
-*   Use numerals (1, 2, 3) instead of spelling out numbers inside an info box to make it easier to scan  	
+   * Numbers or important takeaways can go into an info box if they aren’t time-sensitive
+   * For example, telling state employees they get 1 personal holiday and 1 holiday credit in 2020
+   * Use numerals (1, 2, 3) instead of spelling out numbers inside an info box to make it easier to scan  	
 
 ## Lead class text
-*   Use lead text sparingly to highlight information that’s important to users
-*   Try not to use more than one paragraph of lead class text per page 
+   * Use lead text sparingly to highlight information that’s important to users
+   * Try not to use more than one paragraph of lead class text per page 
