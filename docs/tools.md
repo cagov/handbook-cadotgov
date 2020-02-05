@@ -1,30 +1,30 @@
 ## Business functions
 ### GSuite - docs, email, calendar
+#### Administrator guidelines
+#### User guidelines
 
 ## Development
-  * Browser Stack - cross browser testing 
-  * [Postman](https://documenter.getpostman.com/view/9918160/SWLb8Uep?version=latest)  
-  * GitHub
-  * Azure MS Cloud Services - deployment
+### Browser Stack - cross browser testing 
+### [Postman](https://documenter.getpostman.com/view/9918160/SWLb8Uep?version=latest)  
+### GitHub
+### Azure MS Cloud Services - deployment
 
 ## Accessibility testing
-  * Lighthouse - performance, accessibility, and SEO
-  * Hemingway 
+### Lighthouse - performance, accessibility, and SEO
+### Hemingway 
 
 ## Gathering user feedback
-  * Survey Monkey
-  * UserTesting.com
+### Survey Monkey
+### UserTesting.com
 
 ## Intra-team communications
-  * Slack
+### Slack
+#### Administrator guidelines
+#### User guidelines
 
 ## External communications
-  * Twitter
-  * Blog
-
-## Usage guidelines
-
-### Administrator guidelines**
+### Twitter
+### Blog
 
 **Team:** Alpha.CA.gov
 **Slack workspace name:** cadotgov
