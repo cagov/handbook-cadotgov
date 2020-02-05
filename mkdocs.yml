@@ -8,7 +8,7 @@ pages:
     - Operations: operations.md
     - Guiding principles: principles.md
     - Content guide: content.md
-    - Product design: design.md
+    - Product: product.md
     - Tools: tools.md
 
 theme:
