@@ -1,5 +1,5 @@
 ## Business functions
-  * GSuite - docs, email, calendar
+### GSuite - docs, email, calendar
 
 ## Development
   * Browser Stack - cross browser testing 
