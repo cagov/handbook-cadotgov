@@ -77,9 +77,6 @@ Tool specific role: Owner, Administrator
 ### Blog
 
 # Slack users
-**Slack**
-
-Slack is a required chat tool for the Alpha team. We’ll use it to communicate with each other in a central place.
 
 **Expectations**
 
