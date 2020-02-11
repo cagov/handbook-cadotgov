@@ -6,7 +6,7 @@ pages:
     - Welcome: README.md
     - Contributions: contributions.md
     - Operations: operations.md
-    - Guiding Principles: guidingp-rinciples/operational-principles.md
+    - Guiding Principles: guiding-principles/operational-principles.md
     - Guiding principles: principles.md
     - Content guide: content.md
     - Product: product.md
