@@ -1,4 +1,4 @@
-## [operational principles](https://news.alpha.ca.gov/alpha-ca-gov-operational-principles/)
+## Operational principle
 Our operational principles guide how our team works. See our [operational principles](https://news.alpha.ca.gov/alpha-ca-gov-operational-principles/).
 
 ## Design principles
