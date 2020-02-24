@@ -9,7 +9,6 @@ pages:
     - Guiding principles: principles.md
     - Content guide: content.md
     - Product: product.md
-    - Tools: tools.md
 
 theme:
     name: readthedocs
