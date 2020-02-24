@@ -1,6 +1,5 @@
-## Operational principles
-
-Our operational principles guide how our team works. See our [operational principles](https://news.alpha.ca.gov/alpha-ca-gov-operational-principles/).
+## [Operational principles](operational-principles.md)
+Our operational principles guide how our team works. 
 
 ## Design principles
 Our design principles help our team and stakeholders to align on design vision and decision-making. See our [design principles](https://news.alpha.ca.gov/alpha-ca-gov-design-principles/).
