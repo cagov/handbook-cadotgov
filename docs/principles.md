@@ -1,4 +1,4 @@
-## Operational principle (operational-principles.md)
+## [Operational principle](operational-principles.md)
 
 Our operational principles guide how our team works. See our [operational principles](operational-principles.md).
 
