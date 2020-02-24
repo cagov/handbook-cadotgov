@@ -1,5 +1,5 @@
 ## Operational principle
-# Test
+### Test
 
 Our operational principles guide how our team works. See our [operational principles](operational-principles.md).
 
