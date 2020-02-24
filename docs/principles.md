@@ -1,9 +1,6 @@
 ## [Operational principles](operational-principles.md)
-Our [operational principles](operational-principles.md) guide how our team works. 
 
-## Design principles
-Our design principles help our team and stakeholders to align on design vision and decision-making. See our [design principles](https://news.alpha.ca.gov/alpha-ca-gov-design-principles/).
+## [Design principles](design-principles.md)
 
-## Product framing
-Product framing helps our team think about and focus on the problem we’re here to solve. See our [product framing](https://news.alpha.ca.gov/alpha-ca-gov-product-framing/).
+## [Product framing](product-framing.md)
 
