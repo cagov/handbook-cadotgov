@@ -71,23 +71,26 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Public Sans ExtraBold", sans-serif;
 }
 .wy-nav-side {
-  background: #000000;
+    background: #0f1e6b;
+    background: linear-gradient(60deg, #0f1e6b 0%, #1f0f6b 70%);
 }
 .wy-nav-content {
   color: #000000;
 }
 .wy-nav-content a,
 .wy-nav-content a:visited {
-  color: #0071bc;
+  color: #004abc;
 }
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {
   font-weight: normal;
 }
 .wy-menu-vertical a:active {
-  background-color: #000000;
+    background: #0f1e6b;
+    background: linear-gradient(60deg, #0f1e6b 0%, #1f0f6b 70%);
 }
 .wy-side-nav-search, .wy-nav-top {
-  background-color: #000000;
+    background: #0f1e6b;
+    background: linear-gradient(60deg, #0f1e6b 0%, #1f0f6b 70%);
 }
 .wy-side-nav-search>div.version {
   color: #f1f1f1;
@@ -107,4 +110,8 @@ h1 {
 }
 .wy-menu-vertical a {
   font-size: 110%;
+  color: #fff;
+}
+.icon {
+  font-family: "Public Sans ExtraBold", sans-serif !important;
 }
