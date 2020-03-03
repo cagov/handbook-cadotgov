@@ -1,5 +1,4 @@
-## Operational principles
-# Header
+# Operational principles
 
 Our operational principles guide how our team works.
 
