@@ -24,16 +24,19 @@ Our goal is to use the power of digital to deliver the services that any given C
 How can user research and content design help meet user needs
 What it takes for government to work in the open
 How to best set up a highly effective digital services team
-What we’re not trying to do
-Redesign all of the State of California’s digital government services
-Set the State of California’s technology strategy
-Maintain traditional practices in digital or technology strategy and execution
-Product assumptions and dependencies
-That people go first to their government official website to find what they’re looking for.
-That we understand what matters most to people
-That the way users currently find government services online is their preferred method
-That users don’t care about an agency-focused approach
-Prioritization criteria for user needs
+
+## What we’re not trying to do
+  * Redesign all of the State of California’s digital government services
+  * Set the State of California’s technology strategy
+  * Maintain traditional practices in digital or technology strategy and execution
+
+## Product assumptions and dependencies
+  * That people go first to their government official website to find what they’re looking for.
+  * That we understand what matters most to people
+  * That the way users currently find government services online is their preferred method
+  * That users don’t care about an agency-focused approach
+  * Prioritization criteria for user needs
+
 The Alpha will be based on initial user needs that are selected with data, intuition, and experimentation. The following criteria will be used to assess the overall impact of the user story.
 
 ## External Criteria
