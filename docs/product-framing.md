@@ -62,9 +62,9 @@ The Alpha will be based on initial user needs that are selected with data, intui
   * Long term, push to Beta
 
 ## Reference
-[Government product management](https://help.proudcity.com/government-product-management/)
-[The Importance of Product Management in Government](https://medium.com/the-u-s-digital-service/the-importance-of-product-management-in-government-b59933d01874)
-[Product Leadership](https://scottcolfer.com/2019/09/01/product-leadership.html)
-[Product framing](https://github.com/ONRR/doi-extractives-data/wiki/Product-framing)
-[Product management training](https://www.google.com)
-[San Rafael Product Management](https://employees.cityofsanrafael.org/product)
+  * [Government product management](https://help.proudcity.com/government-product-management/)
+  * [The Importance of Product Management in Government](https://medium.com/the-u-s-digital-service/the-importance-of-product-management-in-government-b59933d01874)
+  * [Product Leadership](https://scottcolfer.com/2019/09/01/product-leadership.html)
+  * [Product framing](https://github.com/ONRR/doi-extractives-data/wiki/Product-framing)
+  * [Product management training](https://www.google.com)
+  * [San Rafael Product Management](https://employees.cityofsanrafael.org/product)
