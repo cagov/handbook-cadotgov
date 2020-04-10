@@ -1,4 +1,4 @@
-# Design priniciples
+# Design principles
 
 Design principles help teams and stakeholders to align on design vision and decision-making.
 
